@@ -9,7 +9,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6e2bf08-8d9a-4752-97f4-9e4db1156fdc" name="Changes" comment="" />
+    <list default="true" id="b6e2bf08-8d9a-4752-97f4-9e4db1156fdc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../CRUD_2.3.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CRUD_2.3.1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CRUD_2.3.1/src/main/java/web/dao/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CRUD_2.3.1/src/main/java/web/dao/UserDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CRUD_2.3.1/src/main/java/web/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CRUD_2.3.1/src/main/java/web/service/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CRUD_2.3.1/src/main/webapp/WEB-INF/views/editUser.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CRUD_2.3.1/src/main/webapp/WEB-INF/views/editUser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CRUD_2.3.1/src/main/webapp/WEB-INF/views/findUser.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CRUD_2.3.1/src/main/webapp/WEB-INF/views/findUser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CRUD_2.3.1/src/main/webapp/WEB-INF/views/newUser.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CRUD_2.3.1/src/main/webapp/WEB-INF/views/newUser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CRUD_2.3.1/src/main/webapp/WEB-INF/views/showUsers.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CRUD_2.3.1/src/main/webapp/WEB-INF/views/showUsers.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +31,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../CRUD_2.3.1" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -42,6 +53,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2PCXWuOjgLNSqZBhU5iGfDT3hLp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -249,7 +263,8 @@
       <workItem from="1682962073211" duration="466000" />
       <workItem from="1682962557858" duration="10633000" />
       <workItem from="1683044388401" duration="3370000" />
-      <workItem from="1683048207273" duration="3373000" />
+      <workItem from="1683048207273" duration="3829000" />
+      <workItem from="1683187469379" duration="1811000" />
     </task>
     <servers />
   </component>
